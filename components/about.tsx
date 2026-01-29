@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button"
 export function About() {
   return (
     <section id="about" className="py-20 lg:py-32 bg-background">
-      <div className="container mx-auto px-4 lg:px-17">
+      <div className="container mx-auto px-4 lg:px-18">
         {/* Header */}
         <div className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-6 mb-12">
           <div>
