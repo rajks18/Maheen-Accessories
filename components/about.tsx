@@ -6,7 +6,7 @@ export function About() {
     <section id="about" className="py-20 lg:py-32 bg-background">
       <div className="container mx-auto px-4 lg:px-8">
         {/* Header */}
-        <div className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-7 mb-12">
+        <div className="flex flex-col lg:flex-row lg:justify-between lg:items-start gap-8 mb-12">
           <div>
             <p className="text-sm text-accent mb-2">
               <span className="italic">03 //</span> ABOUT COMPANY
