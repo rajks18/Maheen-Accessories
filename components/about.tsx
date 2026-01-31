@@ -14,7 +14,7 @@ export function About() {
             <h2 className="text-3xl lg:text-5xl font-serif text-foreground">
               Maheen Creates <span className="italic">What You need</span>
             </h2>
-            <p className="text-6xl lg:text-2xl text-muted-foreground mt-2">
+            <p className="text-7xl lg:text-2xl text-muted-foreground mt-2">
               precision, passion, and a touch of creativity.
             </p>
           </div>
