@@ -11,7 +11,7 @@ export function About() {
             <p className="text-sm text-accent mb-2">
               <span className="italic">03 //</span> ABOUT COMPANY
             </p>
-            <h2 className="text-5xl lg:text-5xl font-serif text-foreground">
+            <h2 className="text-6xl lg:text-5xl font-serif text-foreground">
               Maheen Creates <span className="italic">What You need</span>
             </h2>
             <p className="text-xl lg:text-2xl text-muted-foreground mt-2">
