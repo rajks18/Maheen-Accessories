@@ -20,7 +20,7 @@ export function About() {
           </div>
           <Button variant="outline" className="self-start bg-transparent border-foreground text-foreground hover:bg-muted">
             Explore Now
-            <ArrowUpRight className="ml-2 h-4 w-20" />
+            <ArrowUpRight className="ml-2 h-4 w-21" />
           </Button>
         </div>
 
