@@ -27,7 +27,7 @@ export function About() {
         {/* Content */}
         <div className="grid lg:grid-cols-2 gap-8 lg:gap-16 items-start">
           {/* Image */}
-          <div className="relative pb-15">
+          <div className="relative pb-16">
             <div 
               className="aspect-[3/4] lg:aspect-[4/5] bg-cover bg-center rounded-lg"
               style={{
