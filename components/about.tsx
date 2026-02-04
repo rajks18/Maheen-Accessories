@@ -25,7 +25,7 @@ export function About() {
         </div>
 
         {/* Content */}
-        <div className="grid lg:grid-cols-16 gap-8 lg:gap-16 items-start">
+        <div className="grid lg:grid-cols-17 gap-8 lg:gap-16 items-start">
           {/* Image */}
           <div className="relative pb-12">
             <div 
