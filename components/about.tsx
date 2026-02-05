@@ -35,7 +35,7 @@ export function About() {
               }}
             />
             {/* Floating CTA Button */}
-            <div className="absolute -bottom-18 right-0 lg:-right-8 translate-x-1/4">
+            <div className="absolute -bottom-19 right-0 lg:-right-8 translate-x-1/4">
               <button className="w-28 h-28 lg:w-32 lg:h-32 rounded-full bg-gradient-to-br from-violet-400 to-violet-500 flex items-center justify-center text-white hover:scale-105 transition-transform shadow-xl">
                 <span className="text-sm font-medium flex items-center gap-1">
                   Explore Us
