@@ -46,7 +46,7 @@ export function About() {
           </div>
 
           {/* Text Content */}
-          <div className="pt-14 lg:pt-24">
+          <div className="pt-15 lg:pt-24">
             <div className="flex items-center gap-4 mb-6">
               <h3 className="text-2xl font-bold text-foreground tracking-wide">ABOUT MAHEEN</h3>
               <div className="flex-1 h-px bg-border" />
