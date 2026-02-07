@@ -56,7 +56,7 @@ export function About() {
               Crafting Excellence | Elevating Creations | Defining Style
             </p>
             
-            <div className="space-y-17 text-sm text-muted-foreground leading-relaxed">
+            <div className="space-y-18 text-sm text-muted-foreground leading-relaxed">
               <p>
                 At Maheen Accessories Ltd, we are committed to providing top-notch products that meet world-class standards. With state-of-the-art infrastructure and an expert management team, we cater to the growing and diversified demands of our customers. Discover our range of high-quality buttons, ribbons, and bows designed to elevate your creations.
               </p>
