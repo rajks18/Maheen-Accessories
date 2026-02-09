@@ -64,7 +64,7 @@ export function Hero() {
               className="border-white/50 text-white hover:bg-white/10 px-6 py-3 h-auto bg-transparent"
             >
               Explore Now
-              <ArrowUpRight className="ml-2 h-4 w-18" />
+              <ArrowUpRight className="ml-2 h-4 w-19" />
             </Button>
           </div>
         </div>
