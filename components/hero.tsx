@@ -94,7 +94,7 @@ export function Hero() {
               PREV
             </button>
             
-            <div className="flex items-center gap-6">
+            <div className="flex items-center gap-7">
               {slides.map((_, index) => (
                 <button
                   key={index}
