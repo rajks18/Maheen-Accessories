@@ -16,7 +16,7 @@ const partners = [
   {
     name: "Maheen Partner",
     logo: (
-      <div className="flex h-16 w-16 items-center justify-center rounded-full border-4 border-blue-900">
+      <div className="flex h-17 w-16 items-center justify-center rounded-full border-4 border-blue-900">
         <div className="text-center text-[8px] font-bold text-blue-900">
           <div>MAHEEN</div>
           <div>ACCESSORIES</div>
