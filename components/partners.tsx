@@ -7,7 +7,7 @@ const partners = [
     name: "H&M",
     logo: (
       <svg viewBox="0 0 100 50" className="h-12 w-auto">
-        <text x="25" y="40" className="fill-red-600 text-4xl font-bold" style={{ fontFamily: 'serif' }}>
+        <text x="26" y="40" className="fill-red-600 text-4xl font-bold" style={{ fontFamily: 'serif' }}>
           H&M
         </text>
       </svg>
