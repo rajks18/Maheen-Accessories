@@ -12,7 +12,7 @@ export function Policies() {
             <h2 className="text-4xl lg:text-5xl font-serif text-foreground">
               Our Smart
             </h2>
-            <h2 className="text-4xl lg:text-3xl font-serif italic text-accent">
+            <h2 className="text-4xl lg:text-4xl font-serif italic text-accent">
               Policies
             </h2>
           </div>
