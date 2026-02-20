@@ -142,7 +142,7 @@ function PolicyCard({ number, title, icon }: { number: string; title: string; ic
 
       {/* Number & Title at bottom */}
       <div className="mt-auto pt-6">
-        <p className="text-sm text-neutral-500 mb-3">{number}</p>
+        <p className="text-sm text-neutral-500 mb-4">{number}</p>
         <h3 className="text-base font-bold text-foreground leading-tight">
           {title}
         </h3>
