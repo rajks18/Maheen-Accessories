@@ -120,7 +120,7 @@ export function Portfolio() {
         <div className="flex justify-center mt-12">
           <button className="inline-flex items-center gap-2 px-6 py-3 border border-neutral-300 text-sm text-foreground hover:bg-neutral-100 transition-colors">
             See More
-            <ArrowRight className="h-4 w-11" />
+            <ArrowRight className="h-4 w-12" />
           </button>
         </div>
       </div>
