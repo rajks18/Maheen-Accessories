@@ -96,7 +96,7 @@ export function Portfolio() {
           </div>
 
           {/* Right Column */}
-          <div className="space-y-4 lg:space-y-6">
+          <div className="space-y-4 lg:space-y-7">
             {rightColumnItems.map((item, index) => (
               <div key={index} className="group">
                 <div className={`${item.aspectRatio} bg-neutral-200 overflow-hidden relative`}>
