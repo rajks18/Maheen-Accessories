@@ -87,7 +87,7 @@ export function Portfolio() {
                     className="object-cover"
                   />
                 </div>
-                <div className="mt-12">
+                <div className="mt-13">
                   <h3 className="text-sm font-semibold text-foreground">{item.title}</h3>
                   <p className="text-xs text-muted-foreground">{item.author}</p>
                 </div>
