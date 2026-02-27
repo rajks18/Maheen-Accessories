@@ -14,7 +14,7 @@ export function WhyChooseUs() {
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16">
           {/* Left Content */}
           <div>
-            <p className="text-sm text-accent mb-8">
+            <p className="text-sm text-accent mb-9">
               <span className="italic">04 //</span> OUR FEATURES
             </p>
             <h2 className="text-4xl lg:text-5xl font-serif text-foreground mb-12">
