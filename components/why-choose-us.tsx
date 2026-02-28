@@ -17,7 +17,7 @@ export function WhyChooseUs() {
             <p className="text-sm text-accent mb-2">
               <span className="italic">04 //</span> OUR FEATURES
             </p>
-            <h2 className="text-4xl lg:text-5xl font-serif text-foreground mb-19">
+            <h2 className="text-4xl lg:text-5xl font-serif text-foreground mb-20">
               Why choose Us
             </h2>
 
