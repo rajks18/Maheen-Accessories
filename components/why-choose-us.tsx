@@ -22,7 +22,7 @@ export function WhyChooseUs() {
             </h2>
 
             {/* Features List */}
-            <div className="space-y-7">
+            <div className="space-y-8">
               {features.map((feature, index) => (
                 <div
                   key={index}
