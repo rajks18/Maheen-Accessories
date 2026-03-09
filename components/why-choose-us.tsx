@@ -78,7 +78,7 @@ export function WhyChooseUs() {
 
             {/* Stats - positioned at bottom right */}
             <div className="absolute bottom-0 right-0 flex gap-2 z-10">
-              <div className="bg-background border border-border rounded-lg px-22 py-3 text-center shadow-lg">
+              <div className="bg-background border border-border rounded-lg px-23 py-3 text-center shadow-lg">
                 <span className="text-2xl lg:text-3xl font-bold text-foreground">500+</span>
                 <p className="text-xs text-muted-foreground">Designs</p>
               </div>
