@@ -40,7 +40,7 @@ export function WhyChooseUs() {
           </div>
 
           {/* Right Content - Building Image with Card */}
-          <div className="relative pb-23">
+          <div className="relative pb-24">
             {/* Building Image */}
             <div className="aspect-[4/3] rounded-lg overflow-visible relative">
               <img 
