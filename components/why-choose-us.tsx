@@ -54,7 +54,7 @@ export function WhyChooseUs() {
             <div className="absolute bottom-8 left-0 lg:left-4 w-64 z-10">
               <div className="bg-foreground text-background rounded-lg p-5">
                 {/* Logo */}
-                <div className="flex items-center gap-7 mb-3">
+                <div className="flex items-center gap-8 mb-3">
                   <svg width="28" height="28" viewBox="0 0 40 40" fill="none" className="text-accent">
                     <path d="M20 5L5 20L12 27L20 19L28 27L35 20L20 5Z" fill="currentColor" opacity="0.7"/>
                     <path d="M12 27L20 35L28 27L20 19L12 27Z" fill="currentColor"/>
