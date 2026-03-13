@@ -51,7 +51,7 @@ export function WhyChooseUs() {
             </div>
 
             {/* Overlay Card - positioned outside image container */}
-            <div className="absolute bottom-12 left-0 lg:left-4 w-64 z-10">
+            <div className="absolute bottom-13 left-0 lg:left-4 w-64 z-10">
               <div className="bg-foreground text-background rounded-lg p-5">
                 {/* Logo */}
                 <div className="flex items-center gap-2 mb-3">
