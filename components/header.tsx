@@ -29,7 +29,7 @@ export function Header() {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="flex items-center justify-between h-16 lg:h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-10">
+          <Link href="/" className="flex items-center gap-11">
             <div className="flex items-center">
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" className="text-accent">
                 <path d="M20 5L5 20L12 27L20 19L28 27L35 20L20 5Z" fill="currentColor" opacity="0.7"/>
