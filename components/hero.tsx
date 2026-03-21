@@ -38,7 +38,7 @@ export function Hero() {
       </div>
 
       {/* Content */}
-      <div className="relative z-10 container mx-auto px-4 lg:px-8 pt-33">
+      <div className="relative z-10 container mx-auto px-4 lg:px-8 pt-34">
         <div className="max-w-2xl">
           <p className="text-xs tracking-[0.3em] text-white/80 mb-4 uppercase">
             {slides[currentSlide].subtitle}
